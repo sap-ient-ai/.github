@@ -1,4 +1,6 @@
-## ☀️
+# ☀️
+
+[Wiki](https://github.com/sap-ient-ai/.github/wiki)
 
 This is a hub for freestyle exploration (theory) / engineering (code) of intelligent systems.
 
