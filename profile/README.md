@@ -16,7 +16,7 @@
 An open collective of curious creative engineering minds dedicated to exploring and advancing the frontier of AI.  
 _Created on 24 November 2023 (**pi**, **Bojan**)_
 
-We spend our time figuring out the best thing we could be building, and building it. 
+We spend our time (mostly on Discord) collectively figuring out the best thing we could be building, and building it. 
 
 We welcome careful drivers.
 
