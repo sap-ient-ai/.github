@@ -64,9 +64,9 @@ Here are some of the things we are working on:
 
 ## GPU sponsorship and investment
 
-We're looking for a single A100 to use for a few weeks.
+We're looking for two A100 GPUs to use for a few weeks.
 
-We want to host our own Llama3 70B model and develop a chassis for evaluating fine-tuning / alignment strategies.
+We want to host our own Llama3 70B model and develop a (multi-GPU) chassis for evaluating LLM fine-tuning / alignment strategies.
 
 Is there anyone out there that has one we can use? If so, please contact pipad.org@gmail.com, and we would be proud to acknowledge out sponsor(s) here.
 
