@@ -58,6 +58,9 @@ Here are some of the things we are working on:
 ## Wiki
 [here](https://github.com/sap-ient-ai/.github/wiki)
 
+## Our hardware
+
+We have some compute available for club use, we also rent more compute from the cloud as needed. Ask us for details.
 
 ## What do we DO?
 We spend our time:
